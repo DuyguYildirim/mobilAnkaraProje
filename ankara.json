@@ -1,0 +1,42 @@
+{"ankara":[{
+    "isim:":"Mogan Parkı",
+    "aciklama": "Parkta yürünür",
+    "fotoUrl": "www.plukincorp.com/resim1.png"
+  },{
+    "isim:":"Anadolu Medeniyetler Müzesi",
+    "aciklama": "Müzede gezilir",
+    "fotoUrl": "www.plukincorp.com/resim2.png"
+  },{
+    "isim:":"Atakule",
+    "aciklama": "Buraya bakarlar",
+    "fotoUrl": "www.plukincorp.com/resim3.png"
+  },{
+    "isim:":"Kugulu Park",
+    "aciklama": "Parkta oturulur",
+    "fotoUrl": "www.plukincorp.com/resim4.png"
+  },{
+    "isim:":"Anıtkabir",
+    "aciklama": "..",
+    "fotoUrl": "www.plukincorp.com/resim5.png"
+  },{
+    "isim:":"Ankara Kalesi",
+    "aciklama": "Parkta yürünür",
+    "fotoUrl": "www.plukincorp.com/resim6.png"
+  },{
+    "isim:":"Genclik Parkı",
+    "aciklama": "Parkta yürünür",
+    "fotoUrl": "www.plukincorp.com/resim7.png"
+  },{
+    "isim:":"Harikalar Diyari",
+    "aciklama": "Parkta yürünür",
+    "fotoUrl": "www.plukincorp.com/resim8.png"
+  },{
+    "isim:":"Kızılay Meydanı",
+    "aciklama": "Parkta yürünür",
+    "fotoUrl": "www.plukincorp.com/resim9.png"
+  },{
+    "isim:":"Kocatepe Cami",
+    "aciklama": "Parkta yürünür",
+    "fotoUrl": "www.plukincorp.com/resim10.png"
+  }
+]}
