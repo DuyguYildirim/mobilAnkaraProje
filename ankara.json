@@ -1,42 +1,42 @@
 {"ankara":[{
     "isim":"Mogan Parkı",
-    "aciklama": "Parkta yürünür",
+    "aciklama": "Dinlenme, piknik ve eğlence gibi ortamlara ev sahipliği yapar.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/moganpark.png"
   },{
     "isim":"Anadolu Medeniyetler Müzesi",
-    "aciklama": "Müzede gezilir",
+    "aciklama": " Ankara'nın Altındağ ilçesinin Ulus semtinde bulunan tarih ve arkeoloji müzesidir.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/anadolumedeniyetlerimuzesi.png"
   },{
     "isim":"Atakule",
-    "aciklama": "Buraya bakarlar",
+    "aciklama": " Ankara'da, döner restoranlı kulesi ile meşhur alışveriş merkezi.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/atakule.png"
   },{
     "isim":"Kugulu Park",
-    "aciklama": "Parkta oturulur",
+    "aciklama": "Parkın havuzunda, kuğular, kazlar ve ördekler yer alır.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/kugulupark.png"
   },{
     "isim":"Anıtkabir",
-    "aciklama": "..",
+    "aciklama": "Mustafa Kemal Atatürk'ün, Ankara Anıttepe'de bulunan anıt mezarıdır. ",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/anitkabir.png"
   },{
     "isim":"Ankara Kalesi",
-    "aciklama": "Parkta yürünür",
+    "aciklama": "Ankara'nın Altındağ ilçesinde bulunan tarihi bir kale.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/ankarakalesi.png"
   },{
     "isim":"Genclik Parkı",
-    "aciklama": "Parkta yürünür",
+    "aciklama": "Ankara'nın tarihi parklarından biri olan eğlence parkıdır.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/genclikparki.png"
   },{
     "isim":"Harikalar Diyari",
-    "aciklama": "Parkta yürünür",
+    "aciklama": "Harikalar Diyarı, Ankara'nın Sincan ilçesine bağlı,Avrupa'nın büyük parklarındandır.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/harikalardiyariparki.png"
   },{
     "isim":"Kızılay Meydanı",
-    "aciklama": "Parkta yürünür",
+    "aciklama": "Kızılay Meydanı, Türkiye'nin başkenti Ankara'nın merkezindeki kent meydanıdır.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/kizilaymeydan.png"
   },{
-    "isim":"Kocatepe Cami",
-    "aciklama": "Parkta yürünür",
+    "isim":"Kocatepe Camii",
+    "aciklama": "Türkiye Diyanet Vakfı tarafından 1987'de inşaatı tamamlanan cami.",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/kocatepecamii.png"
   }
 ]}
