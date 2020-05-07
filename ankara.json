@@ -1,41 +1,41 @@
 {"ankara":[{
-    "isim:":"Mogan Parkı",
+    "isim":"Mogan Parkı",
     "aciklama": "Parkta yürünür",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/moganpark.png"
   },{
-    "isim:":"Anadolu Medeniyetler Müzesi",
+    "isim":"Anadolu Medeniyetler Müzesi",
     "aciklama": "Müzede gezilir",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/anadolumedeniyetlerimuzesi.png"
   },{
-    "isim:":"Atakule",
+    "isim":"Atakule",
     "aciklama": "Buraya bakarlar",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/atakule.png"
   },{
-    "isim:":"Kugulu Park",
+    "isim":"Kugulu Park",
     "aciklama": "Parkta oturulur",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/kugulupark.png"
   },{
-    "isim:":"Anıtkabir",
+    "isim":"Anıtkabir",
     "aciklama": "..",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/anitkabir.png"
   },{
-    "isim:":"Ankara Kalesi",
+    "isim":"Ankara Kalesi",
     "aciklama": "Parkta yürünür",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/ankarakalesi.png"
   },{
-    "isim:":"Genclik Parkı",
+    "isim":"Genclik Parkı",
     "aciklama": "Parkta yürünür",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/genclikparki.png"
   },{
-    "isim:":"Harikalar Diyari",
+    "isim":"Harikalar Diyari",
     "aciklama": "Parkta yürünür",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/harikalardiyariparki.png"
   },{
-    "isim:":"Kızılay Meydanı",
+    "isim":"Kızılay Meydanı",
     "aciklama": "Parkta yürünür",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/kizilaymeydan.png"
   },{
-    "isim:":"Kocatepe Cami",
+    "isim":"Kocatepe Cami",
     "aciklama": "Parkta yürünür",
     "fotoUrl": "https://github.com/DuyguYildirim/mobilAnkaraProje/raw/master/kocatepecamii.png"
   }
